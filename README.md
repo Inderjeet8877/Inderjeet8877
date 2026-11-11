@@ -2,9 +2,9 @@
 
 Full-stack developer in Bengaluru. I build web and mobile apps in TypeScript: React and Next.js on the web, React Native on phones, with Firebase or Node and Postgres behind them.
 
-Right now I work at RealHubb Ventures, a real estate company, where I build the public website and the marketing tools the team uses every day. I'm open to full-stack and mobile roles.
+Right now I work at RealHubb Ventures, a real estate company, where I build the public website and the internal marketing tools. I'm open to full-stack and mobile roles.
 
-I came to web from hardware. I did my BCA at NIELIT Agartala, and my project there was Drishti-Nav, a walking stick for blind users built on a Raspberry Pi 4 with a camera, GPS and spoken feedback. I still like projects where the software has to deal with the real world.
+I also build hardware. I did my BCA at NIELIT Agartala, and my project there was Drishti-Nav, a walking stick for blind users built on a Raspberry Pi 4 with a camera, GPS and spoken feedback.
 
 ## Things I've built
 
